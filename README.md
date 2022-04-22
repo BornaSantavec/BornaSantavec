@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BornaSantavec
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in automatization!
+- 🌱 I’m currently learning PHP & SQL
 - 📫 How to reach me borna.santavec124@gmail.com
 
 <!---
